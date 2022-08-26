@@ -94,7 +94,6 @@ Install dependencies
 Start the server
 
 ``` uvicorn api:main:app
-
 ```
 
 
@@ -105,14 +104,12 @@ Go to the project directory
 
 ```bash
   cd <foldername>/<frontend>
-  
 ```
 
 
 Start flutter app
 
 ``` flutter run 
-
 ```
 
 
