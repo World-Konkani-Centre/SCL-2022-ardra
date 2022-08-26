@@ -87,13 +87,15 @@ Go to the project directory
 
 Install dependencies
 
-``` pip3 install -r requirement.txt
+``` bash 
+  pip3 install -r requirement.txt
 
 ```
 
 Start the server
 
-``` uvicorn api:main:app
+``` bash
+uvicorn api:main:app
 ```
 
 
@@ -102,15 +104,13 @@ Start the server
 
 Go to the project directory
 
-```bash
   cd <foldername>/<frontend>
-```
+
 
 
 Start flutter app
 
-``` flutter run 
-```
+flutter run
 
 
 
