@@ -103,15 +103,15 @@ uvicorn api:main:app
 ## Run flutter app locally
 
 Go to the project directory
-
+```bash
   cd <foldername>/<frontend>
-
+```
 
 
 Start flutter app
-
+```bash
 flutter run
-
+```
 
 
 
