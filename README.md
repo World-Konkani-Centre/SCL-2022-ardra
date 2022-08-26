@@ -82,16 +82,19 @@ Go to the project directory
 
 ```bash
   cd <foldername>/<scl-rating-system>
+  
 ```
 
 Install dependencies
 
 ``` pip3 install -r requirement.txt
+
 ```
 
 Start the server
 
 ``` uvicorn api:main:app
+
 ```
 
 
@@ -102,12 +105,14 @@ Go to the project directory
 
 ```bash
   cd <foldername>/<frontend>
+  
 ```
 
 
 Start flutter app
 
 ``` flutter run 
+
 ```
 
 
